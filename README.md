@@ -3,7 +3,7 @@ A light weight library for getting current user location, latitude, longitude, a
 ​
 ## Installation
 <!-- TODO: add package -->
-In project level build file, add the jitpack repository inside repositories of allprojects  as follows:
+In project level build file, add the jitpack repository inside repositories of allprojects  as follow:
 ```groovy
 allprojects {
    repositories {
